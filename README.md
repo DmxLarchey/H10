@@ -6,7 +6,7 @@ This repository contains the Coq formalisation of the paper "Hilbert's tenth pro
 
 ## How to compile the code
 
-Clone the repo using `git clone https://github.com/uds-psl/H10.git`, then `cd H10` and `make -j 5` should do the job. The files are tested to compile with `The Coq Proof Assistant, version 8.8.2 (October 2018)`.
+Clone the repo using `git clone https://github.com/uds-psl/H10.git`, then `cd H10` and `make -j 5` should do the job. The files are tested to compile with `The Coq Proof Assistant, version 8.8.2 (October 2018)`. However, they do not compile correctly on older version of Coq such as e.g. version 8.7.
 
 The compiled HTML version of the files can be found [here](https://uds-psl.github.io/H10/website/toc.html) or in the `website` subdirectory of this repository.
 
